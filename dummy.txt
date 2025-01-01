@@ -1,1 +1,1 @@
-Commit 2 on 2025-01-01: Added error handling for failed API calls
+Commit 3 on 2025-01-01: Updated documentation for API usage
