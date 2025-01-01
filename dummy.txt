@@ -1,1 +1,1 @@
-Commit 3 on 2025-01-01: Updated documentation for API usage
+Commit 4 on 2025-01-01: Refactored ViewModel logic for API calls
