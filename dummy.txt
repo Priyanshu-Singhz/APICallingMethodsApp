@@ -1,1 +1,1 @@
-Commit 5 on 2025-01-08: Refactored ViewModel logic for API calls
+Commit 1 on 2025-01-09: Added unit tests for API methods
