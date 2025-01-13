@@ -1,1 +1,1 @@
-Commit 1 on 2025-01-13: Refactored ViewModel logic for API calls
+Commit 2 on 2025-01-13: Improved logging for debugging network issues
