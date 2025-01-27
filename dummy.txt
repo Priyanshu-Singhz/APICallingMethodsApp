@@ -1,1 +1,1 @@
-Commit 4 on 2025-01-27: Refactored network layer for better modularity
+Commit 5 on 2025-01-27: Fixed JSON decoding errors
