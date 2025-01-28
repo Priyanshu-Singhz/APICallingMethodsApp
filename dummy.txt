@@ -1,1 +1,1 @@
-Commit 5 on 2025-01-27: Fixed JSON decoding errors
+Commit 1 on 2025-01-28: Refactored ViewModel logic for API calls
