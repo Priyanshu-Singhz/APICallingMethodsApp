@@ -1,1 +1,1 @@
-Commit 1 on 2025-01-30: Fixed JSON decoding errors
+Commit 2 on 2025-01-30: Optimized caching for offline support
