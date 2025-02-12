@@ -1,1 +1,1 @@
-Commit 2 on 2025-02-12: Refactored network layer for better modularity
+Commit 3 on 2025-02-12: Added error handling for failed API calls
